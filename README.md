@@ -1,16 +1,14 @@
-# myapp
+# 🌊 Wuthering Waves CharacterDex
 
-A new Flutter project.
+A simple Flutter app that showcases characters from **Wuthering Waves**.  
+Built for practice.  
 
-## Getting Started
+## 📱 Features
+- 🖼️ **Home Screen**: App banner + short description of Wuthering Waves  
+- 📋 **Character List**:list of characters displayed as cards  
+- 🔍 **Character Detail**: Tap a character card to see their image and background story  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Priscarrr/WutheringWaves-CharacterDex.git
